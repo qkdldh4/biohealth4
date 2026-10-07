@@ -2,8 +2,7 @@
 ### 샘플 사진
 <img width="320" height="240" alt="Sample" src="https://github.com/user-attachments/assets/e2c38037-6112-4461-bd9c-83711286b22e" />
 
-### 뱃지 넣는 방법
-# 뱃지 샘플 (Shields.io)
+### 뱃지 샘플 (Shields.io)
 ![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
