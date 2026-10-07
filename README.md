@@ -11,3 +11,6 @@
 
 ### 웹싸이트의 그림 가져 오기 예시
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40" />
+
+### 샘플 링크
+https://github.com/EmmettHwang/geminiNoh
